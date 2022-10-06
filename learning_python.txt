@@ -1,0 +1,4 @@
+In Python you can program whatever you want.
+In Python you can create a class of objecta, for example, Car class.
+You can analize datas in Python.
+In Python you can create an web application.
